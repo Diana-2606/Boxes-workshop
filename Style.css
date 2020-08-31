@@ -1,0 +1,19 @@
+body{
+    max-width: 900px;
+}
+.br{
+    border-bottom: solid;
+}
+.centru{
+    text-align: center;
+}
+.middle{
+    text-align: left;
+    padding-left: 130px;
+}
+.centru{text-align: justify;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+ 
